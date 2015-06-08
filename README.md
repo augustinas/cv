@@ -55,3 +55,43 @@ I love writing code - clean, readable and efficient. Since learning about Agile,
 - APIs: Google Maps, Twitter, Facebook, Twilio
 
 Great examples of what I can do with code can be seen on my [github profile](https://github.com/augustinas).
+
+## Education
+
+#### Makers Academy (Feb 2015 - Jun 2015)
+
+- Sixteen-week intensive course where I learnt to write, think and breathe code
+- Completed the course as a member of the first online cohort (codename Ronin)
+- Became an expert in remote collaborative work, its organisation and pair-programming, completed two major projects and a number of smaller projects and challenges
+- More about my Ronin experience [here](https://www.coursereport.com/schools/makers-academy#/news/student-spotlight-augustinas-makers-academy-ronin) - an interview taken by a New York based start-up Course Report
+
+#### University of Manchester / University of Edinburgh (Sep 2010 - Mar 2015)
+
+- Designed and built very important and not so important molecules
+- PhD in Chemistry
+- Successfully led research projects, supervised final year undergraduates, published research articles in top-tier scientific journals
+- Created my first [static website](http://catenane.net/)! Taught myself basics of HTML and CSS from scratch.
+
+#### University of Strathclyde / Vilnius University (Sep 2005 - Jul 2010)
+
+- Reached the edge of knowledge in the natural sciences and had first-hand experience with problems faced by big pharma companies
+- First Class Honours
+
+## Work
+
+__University of Manchester__ (Sep 2012 to May 2014)
+
+_Teaching Assistant_
+
+__University of Edinburgh__ (Jan 2011 to May 2012)
+
+_Teaching Assistant_
+
+__F. Hoffmann-La Roche__ (Sep 2008 to Sep 2009)
+
+_Intern / Laboratory Technician_
+
+__University of Strathclyde__ (Jun 2007 to Aug 2008)
+
+_Summer Intern_
+
